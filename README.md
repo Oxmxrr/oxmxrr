@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hey+i'm+omar+👋;full-stack+dev;ai+%2F+ml+builder" alt="Typing SVG" />
 </h1>
+
 ```yaml
 about:
   role: full-stack · mobile · ai/ml
@@ -33,9 +34,6 @@ about:
 
 ---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/omar-al-kilani-323651149">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=oxmxrr&style=flat-square&color=555555" />
-</p>
+<a href="https://www.linkedin.com/in/omar-al-kilani-323651149">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
