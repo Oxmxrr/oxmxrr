@@ -34,6 +34,14 @@ about:
 
 ---
 
+### 🐍 contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oxmxrr/oxmxrr/output/github-snake-dark.svg" />
+</p>
+
+---
+
 <a href="https://www.linkedin.com/in/omar-al-kilani-323651149">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
