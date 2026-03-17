@@ -21,16 +21,12 @@ about:
 
 ### 📊 stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=oxmxrr&theme=dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oxmxrr&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=oxmxrr&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oxmxrr&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
+</p>
 
 ---
 
