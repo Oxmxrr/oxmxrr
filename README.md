@@ -4,9 +4,9 @@
 
 ```yaml
 about:
-  role: full-stack · mobile · ai/ml
+  role: full-stack · backend · ai/ml
   stack: [react, next.js, node, pytorch, typescript]
-  currently: building things
+  currently: building interesting things
 ```
 
 ---
