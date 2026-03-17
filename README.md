@@ -13,7 +13,7 @@ about:
 
 ### 🛠 tech
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,pytorch,tailwind&theme=dark" />
 </p>
 
