@@ -23,16 +23,9 @@ about:
 
 ### 📊 stats
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=oxmxrr&theme=dark&hide_border=true&width=380" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=oxmxrr&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=380" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=oxmxrr&theme=dark&hide_border=true" />
+</p>
 
 ---
 
