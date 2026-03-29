@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/oxmxrr/oxmxrr/main/space-banner.svg" width="100%" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hey+i'm+omar+👋;full-stack+dev;ai+%2F+ml+builder" alt="Typing SVG" />
 </h1>
@@ -27,7 +29,7 @@ about:
       <img src="https://streak-stats.demolab.com?user=oxmxrr&theme=dark&hide_border=true&width=380" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=oxmxrr&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=380" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=oxmxrr&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=380" />
     </td>
   </tr>
 </table>
